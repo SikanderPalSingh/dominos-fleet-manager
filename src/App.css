@@ -1,0 +1,25 @@
+
+.App {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+
+.buttons button {
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
